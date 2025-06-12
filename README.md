@@ -1,6 +1,7 @@
 # Image-Colorization-3
 
 🔍 Project Highlights :-
+
 🕰️ Era-Based Colorization: Colorization adapts based on the selected historical period.
 
 🧠 Deep Learning Model: Built using architectures like InstColorization or Zhang et al.'s Model (2016), fine-tuned for historical domains.
@@ -11,7 +12,8 @@
 
 📈 Evaluation Metrics: PSNR and SSIM used for performance evaluation with historical color references.
 
-🎯 Objective 
+🎯 Objective
+
 Colorize black-and-white photographs from different historical periods.
 
 Preserve historical accuracy in tone, clothing, and background color representations.
@@ -19,6 +21,7 @@ Preserve historical accuracy in tone, clothing, and background color representat
 (Optional) Support user selection of historical era for model variation.
 
 🧠 Model Used
+
 DeOldify is an open-source deep learning model built on PyTorch. It leverages:
 
 A NoGAN training approach
@@ -28,6 +31,7 @@ A ResNet-based generator
 A critic discriminator to improve image realism
 
 📁 Dataset
+
 A collection of grayscale historical photographs, primarily from:
 
 World War II (1939–1945)
