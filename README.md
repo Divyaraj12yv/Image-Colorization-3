@@ -1,4 +1,5 @@
-# Image-Colorization-3
+# Task 3 :-
+# Colorization of historical photographs
 
 🔍 Project Highlights :-
 
